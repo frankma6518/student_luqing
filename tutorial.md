@@ -1,6 +1,6 @@
 ### Teach Luqing how to use git
-## line frank- 1
-## line frank-change 2
+## line frank-change-luqing
+## line frank-change-luqing 2
 ## line frank 3
 ## line frank 4
 ## line frank 5
